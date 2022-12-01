@@ -15,4 +15,4 @@ Email: muzdadid@gmail.com
 ## Project Description :
 This repository contains various **Customer Segmentation** projects which I have implemented so far. Other **Customer Segmentation** projects will also be showcased here.
 
-**Language used :** Python
+**Language used :** Python </br>
