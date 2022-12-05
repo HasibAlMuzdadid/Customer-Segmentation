@@ -17,4 +17,4 @@ This repository contains various **Customer Segmentation** projects which I have
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
-**Platform :**
+**Platform :** Kaggle
