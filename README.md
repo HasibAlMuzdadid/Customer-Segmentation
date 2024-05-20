@@ -11,7 +11,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+
 
 ## Project Description :
 This repository contains various **Customer Segmentation** projects which I have implemented so far. Other **Customer Segmentation** projects will also be showcased here.
